@@ -1,0 +1,2 @@
+# GeneratorSqlmapCustom
+这是一个MyBatis逆向工程，可以生成pojo，mapper接口、mapper映射文件
